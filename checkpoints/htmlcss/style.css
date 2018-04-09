@@ -1,0 +1,29 @@
+/* give your page a fun background color */
+body {
+  background-color: #ff99ff;
+}
+
+/* give your header and footer another background color */
+/* define the font for your header */
+h1 {
+  font: sans-serif;
+  font-size: 24px;
+  background-color: #ccffcc;
+  color: #3399ff;
+}
+
+footer {
+  background-color: #ccffcc;
+}
+
+
+/* remove the bullets from your unordered list */
+ul {
+  list-style-type: none;
+}
+
+/* make your paragraph italic and a color that is not black */
+p {
+  font-style: italic;
+  color: #3399ff;
+}
